@@ -3,7 +3,6 @@ python programming
 void main()
 {
   print("Hello world");
-printf("hello jnnce");
 }
 
 
